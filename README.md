@@ -131,13 +131,22 @@ class NagapoojithUllam:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Unp12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unp12&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Unp12&show_icons=true&theme=tokyonight" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unp12&layout=compact&theme=tokyonight" height="180"/>
+
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unp12&theme=tokyonight&hide_border=true" height="180" />
+
+<img src="https://streak-stats.demolab.com?user=Unp12&theme=tokyonight"/>
+
 </div>
+
+---
 
 ---
 
@@ -152,7 +161,9 @@ class NagapoojithUllam:
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Unp12/Unp12/output/github-contribution-grid-snake-dark.svg" />
+
+<img src="https://raw.githubusercontent.com/Unp12/Unp12/output/github-contribution-grid-snake-dark.svg"/>
+
 </div>
 
 ---
