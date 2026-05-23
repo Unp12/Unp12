@@ -129,23 +129,17 @@ class NagapoojithUllam:
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Unp12&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Unp12&theme=tokyonight" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unp12&layout=compact&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Unp12&theme=tokyonight" height="180"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=Unp12&theme=tokyonight"/>
 
 </div>
-
 ---
 
 ---
